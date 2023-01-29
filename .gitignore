@@ -1,0 +1,7 @@
+*--rc
+.direnv
+.terraform
+terraform.tfstate*
+terraform.tfvars
+*.tfvars
+cloud.envrc
